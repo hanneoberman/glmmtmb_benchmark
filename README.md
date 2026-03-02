@@ -1,1 +1,1 @@
-# glmmtmb_mice
+# glmmtmb_benchmark
